@@ -1,0 +1,25 @@
+def izvada_3rindas():
+    #block belonging to the function
+    print('#####')
+    print('$$$$$')
+    print('&&&&&')
+#End of function
+
+
+izvada_3rindas() #call the function
+
+
+# 2 uzdevums
+def izvade_4rindas():
+    print('****')
+    print('****')
+    print('****')
+    print('****')
+
+    izvade_4rindas()
+
+# 3 uzdevums
+def izvade_5rindas():
+    print('*****')
+    print('*   *')
+    print('*   *')

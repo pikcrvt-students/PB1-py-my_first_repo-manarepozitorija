@@ -1,0 +1,10 @@
+
+# 3 uzdevums
+def izvade_5rindas():
+    print('*****')
+    print('*   *')
+    print('*   *')
+    print('*   *')
+    print('*****')
+
+izvade_5rindas()
