@@ -1,5 +1,5 @@
 
-# 3 uzdevums
+# 1 uzdevums
 def izvade_5rindas():
     print('**** ')
     print(' ****')
