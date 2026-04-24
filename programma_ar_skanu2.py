@@ -1,5 +1,6 @@
 from winsound import Beep
 
+
 notes = {'C': 1635,
          'D': 1835,
          'E': 2060,
